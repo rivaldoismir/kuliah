@@ -1,0 +1,14 @@
+Matkul Semester 4
+- Senin
+          -> Pemrograman Berorientasi Objek 
+          -> Sistem Operasi
+- Selasa
+          -> Rekayasa Perangkat Lunak
+- Rabu
+          -> Pemrograman Web Lanjut
+- Kamis
+          -> Basis Data
+          -> Otomata & Teori Bahasa
+- Jumat
+          -> Pemrogramana Berorientasi Objek
+          -> Logika Informatika
