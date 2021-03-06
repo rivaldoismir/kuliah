@@ -1,14 +1,14 @@
 Matkul Semester 4
 - Senin
-          -> Pemrograman Berorientasi Objek 
-          -> Sistem Operasi
+          -> Pemrograman Berorientasi Objek [16.20 - 18.00]
+          -> Sistem Operasi [18.30 - 21.00]
 - Selasa
-          -> Rekayasa Perangkat Lunak
+          -> Rekayasa Perangkat Lunak [18.30 - 21.00]
 - Rabu
-          -> Pemrograman Web Lanjut
+          -> Pemrograman Web Lanjut [18.30 - 20.10]
 - Kamis
-          -> Basis Data
-          -> Otomata & Teori Bahasa
+          -> Basis Data [15.30 - 18.00]
+          -> Otomata & Teori Bahasa [18.30 - 21.00]
 - Jumat
-          -> Pemrogramana Berorientasi Objek
-          -> Logika Informatika
+          -> Pemrogramana Berorientasi Objek [16.20 - 18.20]
+          -> Logika Informatika [18.30 - 21.00]
